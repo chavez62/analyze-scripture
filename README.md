@@ -23,13 +23,13 @@ Before running the analyzer, make sure you have:
 1. Clone the repository:
 
 ```bash
-Copygit clone https://github.com/yourusername/bible-symbolism-analyzer.git
+git clone https://github.com/yourusername/bible-symbolism-analyzer.git
 cd bible-symbolism-analyzer
 ```
 2. Install required packages:
 
 ```bash
-Copypip install openai python-dotenv colorama
+pip install openai python-dotenv colorama
 ```
 3. Create a .env file in the project root:
 
