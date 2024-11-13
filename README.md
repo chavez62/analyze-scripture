@@ -34,7 +34,7 @@ pip install openai python-dotenv colorama
 3. Create a .env file in the project root:
 
 ```bash
-Copytouch .env
+touch .env
 ```
 4. Add your OpenAI API key to the .env file:
 
