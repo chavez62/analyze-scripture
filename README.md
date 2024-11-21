@@ -46,7 +46,7 @@ OPENAI_API_KEY=your-api-key-here
 1. Run the script:
 
 ```bash
-python bible_analyzer.py
+python analyze-scripture.py
 ```
 
 2. When prompted, paste your scripture text and press Enter twice to submit.
